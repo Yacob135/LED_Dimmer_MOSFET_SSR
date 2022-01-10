@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=230V_Inputs.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=230V_Inputs.SchDoc|FileName=ESP32_main.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=230V_Inputs.SchDoc|FileName=Mosfet_SSR.SchDoc|SheetNumber=2
